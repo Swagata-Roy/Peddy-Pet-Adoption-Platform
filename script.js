@@ -223,7 +223,7 @@ async function showPetDetails(petId) {
 
         const pet = data.petData;
         modalContent.innerHTML = `
-            <img src="${pet.image}" alt="${pet.pet_name}" class="w-full h-64 object-cover rounded-lg mb-4"/>
+            <img src="${pet.image}" alt="${pet.pet_name}" class="w-full h-auto object-cover rounded-lg mb-4"/>
             <div class="space-y-4">
                 <h3 class="text-2xl font-bold">${pet.pet_name || 'Unnamed Pet'}</h3>
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
