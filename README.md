@@ -43,7 +43,7 @@
 - Default Parameters
 - Array Methods (map, filter, sort)
 
-## Live Link
+## Live Demo
 
-[Visit Peddy Pet Adoption Platform](https://peddypetstore.netlify.app/)
+[Visit Peddy Pet Adoption Platform](https://swagata-roy.github.io/Peddy-Pet-Adoption-Platform/)
 
